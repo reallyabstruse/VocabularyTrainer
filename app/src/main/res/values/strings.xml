@@ -38,8 +38,8 @@
     <string name="enter_word_first">Enter current word name first</string>
     <string name="add_image_first">Add image first</string>
     <string name="add_text_and_image_first">Add text and image for word</string>
-    <string name="find_image">Find image</string>
-    <string name="find_word">Find word</string>
-    <string name="practice">Practice</string>
+    <string name="find_image">🖼️ 🖼️ 🖼️ 🖼️</string>
+    <string name="find_word">🔤 🔤 🔤 🔤</string>
+    <string name="practice">👩‍🏫 🤔 📖 🎓</string>
     <string name="trying_to_show_image_out_of_range">Trying to show image out of range</string>
 </resources>
